@@ -37,8 +37,10 @@ Building scalable AI systems, enterprise RAG platforms, MCP infrastructure, and 
 
 ### AI / ML
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure)
+![LangGraph](https://img.shields.io/badge/LangGraph-1E1E1E?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-8A2BE2?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-6A0DAD?style=for-the-badge)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
@@ -61,20 +63,6 @@ Building scalable AI systems, enterprise RAG platforms, MCP infrastructure, and 
 | AI-Observability | Monitor AI token usage, latency, and metrics |
 | Multi-Agent-System | AI workflow orchestration platform |
 | AI-Code-Analyzer | Code relationship analysis using LLMs |
-
----
-
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thamaraiselvank&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thamaraiselvank&layout=compact&theme=tokyonight)
-
----
-
-# 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thamaraiselvank&theme=tokyonight)
 
 ---
 
